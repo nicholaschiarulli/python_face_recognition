@@ -4,7 +4,7 @@ Python face_recognition library examples
 
 Steps to install
 
-> **_NOTE:_** sudo apt-get install python3
+``` sudo apt-get install python3 ```
 
 sudo apt install python3-pip
 
