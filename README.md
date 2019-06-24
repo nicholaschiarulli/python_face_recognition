@@ -20,3 +20,4 @@ within your virtual environment install
 
 ```pipenv install face_recognition```
 
+[For more information on face_recognition](https://github.com/ageitgey/face_recognition#installation)
