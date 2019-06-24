@@ -4,19 +4,19 @@ Python face_recognition library examples
 
 Steps to install
 
-``` sudo apt-get install python3 ```
+```sudo apt-get install python3```
 
 ```sudo apt install python3-pip``` 
 
-pip3 install cmake
+```pip3 install cmake```
 
-pip3 install pipenv
+```pip3 install pipenv```
 
 run
 
-pipenv shell
+```pipenv shell```
 
 within your virtual environment install
 
-pipenv install face_recognition
+```pipenv install face_recognition```
 
